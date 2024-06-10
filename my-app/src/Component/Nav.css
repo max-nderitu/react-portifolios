@@ -1,0 +1,31 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.navpage{background-color: rgb(2, 2, 68);
+    border: none;
+    border-radius: 34px;
+    padding: 2% 1%;
+    margin-left: 4%;
+    margin-right:4% ;
+    position: fixed;
+    top:0;
+    right: 0;
+    left: 0;z-index: 1;
+
+}
+.navbar{
+   margin-left: 25%;
+    list-style: none;
+    
+}
+.nav{ 
+    padding: 7px;
+    color:white;
+    text-decoration: none;
+    font-family: sans-serif;
+    margin-left: 5%;
+}
+.nav:hover{color:goldenrod}
+.nav:active{color:purple}
